@@ -1,4 +1,4 @@
-# Medidor de Rotação
+# Medidor de Rotação (_ROTATION METER_)
 
 ## Arquivos "MEDIDOR DE ROTAÇÃO PARA MOTORES CC A PARTIR DA ANÁLISE DA CORRENTE DE EXCITAÇÃO"
 
