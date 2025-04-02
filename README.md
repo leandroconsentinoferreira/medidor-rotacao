@@ -19,3 +19,5 @@ _More information:_\
 https://dx.doi.org/10.13140/2.1.4736.6722
 
 https://www.researchgate.net/publication/316243616_MEDIDOR_DE_ROTACAO_PARA_MOTORES_CC_A_PARTIR_DA_ANALISE_DA_CORRENTE_DE_EXCITACAO
+
+https://www.youtube.com/watch?v=DpYgetGFJIA
